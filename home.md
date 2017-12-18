@@ -1,7 +1,5 @@
 # Sudo\Docs
 
-Visit the full docs on https://docs.sudo.org.au/
-
 Sudo Documentation ❤️ 🎉 💯 powered by <a href="https://docsify.js.org/#/">Docsify</a>. For more information visit the docsify documenation.
 
 ## Projects
