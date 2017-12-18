@@ -20,7 +20,7 @@ Here are a list of the projecs currently undertaken at Sudo.
 
 ## Stack
 
-At Sudo, we like to teach a specific stack that best fits ease-of-use and concept-building that also allows our members to then switch into other brances of the same area.
+At Sudo, we like to teach a specific stack that best fits ease-of-use and concept-building that also allows our members to then switch into other branches of the same area.
 
 - PHP / Laravel 5.4 – [Laravel Docs](https://laravel.com/docs/5.4/)
 - Python 2.7 / 3.0
@@ -28,6 +28,5 @@ At Sudo, we like to teach a specific stack that best fits ease-of-use and concep
 - Git / Github – [Video Tutorials](https://laracasts.com/series/git-me-some-version-control/episodes/1)
 - Ubuntu 16.04 / 17.04
 - Apache + Nginx
-- 
 
-To aid you learn these great tools, we've bought a Laracasts subscription for the group. To access it, go to the sudouc/perks repository.
+To aid you in learning these great tools, we've bought a Laracasts subscription for the group. To access it, go to the sudouc/perks repository.
