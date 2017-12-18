@@ -1,3 +1,3 @@
-# Headline
+# Docs
 
-> An awesome project.
+> Sudo Documentation ❤️ 🎉 💯
