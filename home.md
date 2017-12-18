@@ -29,4 +29,4 @@ At Sudo, we like to teach a specific stack that best fits ease-of-use and concep
 - Ubuntu 16.04 / 17.04
 - Apache + Nginx
 
-To aid you in learning these great tools, we've bought a Laracasts subscription for the group. To access it, go to the sudouc/perks repository.
+To aid you in learning these great tools, we've purchased a Laracasts subscription for the group. To access it, go to the sudouc/perks repository.
