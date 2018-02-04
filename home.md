@@ -1,10 +1,10 @@
 # Welcome
 
-Sudo Documentation ❤️ 🎉 💯 powered by <a href="https://docsify.js.org/#/">Docsify</a>. For more information visit the docsify documenation.
+Sudo Documentation ❤️ 🎉 💯 powered by <a href="https://docsify.js.org/#/">Docsify</a>. For more information visit the docsify documentation.
 
 ## Projects
 
-Here are a list of the projecs currently undertaken at Sudo.
+Here are a list of the projects currently undertaken at Sudo.
 
 ### Active Projects 
 

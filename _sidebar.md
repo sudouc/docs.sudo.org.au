@@ -1,4 +1,6 @@
 - [Home](/)
+- [Dev Setup](setup.md)
+- [Sudo\Docs](docs.md)
 - [Sudo\Platform](platform.md)
 - [Sudo\Web](web.md)
 - [Sudo\Coin](coin.md)
