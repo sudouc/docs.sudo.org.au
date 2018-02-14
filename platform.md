@@ -1,4 +1,4 @@
-# Sudo\Platform[![Build Status](https://travis-ci.org/sudouc/platform.sudo.org.au.svg?branch=master)](https://travis-ci.org/sudouc/platform.sudo.org.au) ![](https://img.shields.io/badge/sudo-medium-yellow.svg)
+# Sudo\Platform [![Build Status](https://travis-ci.org/sudouc/platform.sudo.org.au.svg?branch=master)](https://travis-ci.org/sudouc/platform.sudo.org.au) ![](https://img.shields.io/badge/sudo-medium-yellow.svg)
  
 API Platform for all of Sudo's Shinangians 😄
 

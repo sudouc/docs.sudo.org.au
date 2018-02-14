@@ -2,6 +2,12 @@
 
 Sudo Documentation ❤️ 🎉 💯 powered by <a href="https://docsify.js.org/#/">Docsify</a>. For more information visit the docsify documentation.
 
+## Presentations
+
+Don't worry if you miss out on a coding week, we'll upload the powerpoints here for you to look over!
+
+[Week 1: Intro to Git & Dev Setup](https://www.dropbox.com/s/xuil4p22nbcg9ha/Sudo%202018%20-%20Intro%20to%20Git.pdf?dl=0)
+
 ## Projects
 
 Here are a list of the projects currently undertaken at Sudo.
