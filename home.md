@@ -28,8 +28,8 @@ Here are a list of the projects currently undertaken at Sudo.
 
 At Sudo, we like to teach a specific stack that best fits ease-of-use and concept-building that also allows our members to then switch into other branches of the same area.
 
-- PHP / Laravel 5.4 – [Laravel Docs](https://laravel.com/docs/5.4/)
-- Python 2.7 / 3.0
+- PHP / Laravel 5.5 – [Laravel Docs](https://laravel.com/docs/5.5/)
+- Python 2.7 / 3.6
 - Foundation Framework – [Docs](foundation.zurb.com/sites/docs/)
 - Git / Github – [Video Tutorials](https://laracasts.com/series/git-me-some-version-control/episodes/1)
 - Ubuntu 16.04 / 17.04
