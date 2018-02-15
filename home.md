@@ -17,7 +17,6 @@ Here are a list of the projects currently undertaken at Sudo.
 - [Sudo Website](http://sudo.org.au)
 - [Sudo Platform](http://platform.sudo.org.au) – [Staging Website](http://staging.platform.sudo.org.au)
 - Project Flux (TBA – to be adopted – Early 2018)
-- Project Hummingbird (TBA – to be adopted – Early 2018) – [Staging Website](http://staging.platform.sudo.org.au/hummingbird) (test@test.com / test)
 - Project RifRaf (TBA – to be adopted – Mid 2018)
 
 ### Inactive (Archived) Projects
