@@ -10,6 +10,10 @@ Don't worry if you miss out on a coding week, we'll upload the powerpoints here 
 
 [Week 2: Intro to CLI and Python](https://docs.google.com/presentation/d/1EwESkoiBZ-rxBpSyvhuu2bogwhKyfOnB4UcjH-NQKRs/edit?usp=sharing)
 
+## Useful information
+
+The main source of truth for most things in Sudo comes from the "A Fresh Graduate's Guide to Software Development Tools and Technologies". You can find a link to that book here: [http://www.comp.nus.edu.sg/~seer/book/2e/](http://www.comp.nus.edu.sg/~seer/book/2e/)
+
 ## Projects
 
 Here are a list of the projects currently undertaken at Sudo.
@@ -31,7 +35,7 @@ At Sudo, we like to teach a specific stack that best fits ease-of-use and concep
 
 - PHP / Laravel 5.5 – [Laravel Docs](https://laravel.com/docs/5.5/)
 - Python 2.7 / 3.6
-- Foundation Framework – [Docs](foundation.zurb.com/sites/docs/)
+- Foundation Framework – [Docs](https://foundation.zurb.com/sites/docs/)
 - Git / Github – [Video Tutorials](https://laracasts.com/series/git-me-some-version-control/episodes/1)
 - Ubuntu 16.04 / 17.04
 - Apache + Nginx
