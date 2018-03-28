@@ -1,4 +1,5 @@
 - [Home](/)
+- [Electron](electron.md)
 - [Dev Setup](setup.md)
 - [Sudo\Docs](docs.md)
 - [Sudo\Platform](platform.md)
