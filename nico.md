@@ -112,5 +112,4 @@ player.moveUp()
 
 In week 2, we've got a couple of things to accomplish. Don't worry if it's daunting, should be pretty straightforward.
 
-* [ ] Client Prediction
-* [ ] Client Prediction
+Git Clone: `https://github.com/sudouc/nico-player.git`
