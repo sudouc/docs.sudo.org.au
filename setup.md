@@ -21,7 +21,7 @@ The developer tools contains many utilities commonly available on *nix systems, 
 
 #### Homebrew
 
-A package manager for OSX, gives you access to manay of the commonly used utilities on *nix systems.
+A package manager for OSX, gives you access to many of the commonly used utilities on *nix systems.
 
 Install by following the instructions at [https://brew.sh/](https://brew.sh/). (If you haven't already installed the OSX developer tools you will be prompted to.)
 
